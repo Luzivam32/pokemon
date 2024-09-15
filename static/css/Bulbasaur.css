@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 1px solid #ccc;
+}
+body{
+    background: linear-gradient(rgb(14, 161, 14),rgb(138, 54, 216),rgb(14, 161, 14));
+}
+h1{
+    text-align: center;
+}
+.box{
+    display: flex;
+}
+p{
+    background-color: #ccc;
+}
+table{
+    background-color: aquamarine;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+.table60{
+    background: greenyellow;
+}
+.glass{
+    background: rgb(14, 161, 14);
+}
+.poison{
+    background: rgb(138, 54, 216);
+}
+th, td {
+    padding: 7px;
+}
