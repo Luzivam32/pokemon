@@ -4,7 +4,7 @@
     border: 1px solid #ccc;
 }
 body{
-    background: linear-gradient(rgb(14,161,14),rgb(138,54,216),rgb(14,161,14));
+    background: linear-gradient(#ccc,#fff);
 }
 h1{
     text-align: center;
@@ -23,6 +23,13 @@ table{
 }
 .table60{
     background: greenyellow;
+}
+.normal{
+    background: #727070;
+    color: #fff;
+}
+.rocha{
+    background: rgb(136, 107, 35);
 }
 .glass{
     background: rgb(14, 161, 14);

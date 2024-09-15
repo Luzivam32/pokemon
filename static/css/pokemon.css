@@ -12,3 +12,22 @@ table{
     text-align: center;
 
 }
+.glasspoison{
+    background: linear-gradient(rgb(14, 161, 14),rgb(138, 54, 216));
+}
+.glass{
+    background: rgb(14, 161, 14);
+}
+.poison{
+    background: rgb(138, 54, 216);
+}
+.normal{
+    background: #727070;
+    color: #fff;
+}
+.rocha{
+    background: rgb(136, 107, 35);
+}
+.tdf{
+    text-align: left;
+}
